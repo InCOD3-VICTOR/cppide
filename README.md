@@ -24,5 +24,5 @@ This tool is developed to target all kinds of Coders but is specially meant to b
 ![MWLFS](https://user-images.githubusercontent.com/39525716/55235884-a629d280-5254-11e9-82d8-d28a4e911750.gif)
 
 <br/>
-<h3>:clipboard: License: </h3>
+<h3>:clipboard: License: </h3> 
 Licensed under the <a href="https://github.com/soulehshaikh99/cpp-ide/blob/master/LICENSE">MIT License</a>.
