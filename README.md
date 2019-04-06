@@ -5,8 +5,8 @@ Blue Cardinal Studios C++ IDE is a free, simple yet powerful tool which addresse
 Powered with:
 1) Microsoft's Monaco Editor: The same editor which powers VS Code. 
 2) IntelliJ IDEA's Keymap References: For increased Productivity while Coding.
-3) MinGW-w64 Compiler (8.1.0): For Non-Graphics Programs
-4) TDM-GCC MinGW Compiler (5.1.0): For C Graphics (graphics.h) Programs
+3) MinGW-w64 Compiler (8.1.0): For C,C++ Non-Graphics Programs
+4) TDM-GCC MinGW Compiler (5.1.0): For C,C++ Graphics (graphics.h) Programs
 5) Math.js: Integrated for Expression Evaluation feature.
 
 Special Features:
