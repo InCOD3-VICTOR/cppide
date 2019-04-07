@@ -16,7 +16,8 @@ Special Features:
 
 This tool is developed to target all kinds of Coders but is specially meant to be used by College/Universities as it supports Exam Mode and Native Looking (CMD) Code Output and Screenshot features.
 
-<br/>
+<h4>:construction_worker: Build for <a href="https://www.microsoft.com/en-in/windows">Windows</a> using <a href="https://electronjs.org/">Electron</a></h4>
+
 <h3>:pencil: Credits:</h3>
 
 <a href="https://github.com/soulehshaikh99/cpp-ide/blob/master/Credits.pdf">![credits-pdf](https://user-images.githubusercontent.com/39525716/51500353-a8eeee00-1df3-11e9-81f4-9b6821f617ff.png)</a>
