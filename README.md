@@ -11,7 +11,7 @@ Powered with:
 
 Special Features:
 1) Only requires ~100-200MB of RAM Memory to run.
-2) Able to compile and run C Graphics Programs out-of-the-box with Zero Compiler or Linker configurations.
+2) Able to compile and run C,C++ Graphics Programs out-of-the-box with Zero Compiler or Linker configurations.
 3) Code Output's screenshot can be saved by pressing only the F8 key.
 
 This tool is developed to target all kinds of Coders but is specially meant to be used by College/Universities as it supports Exam Mode and Native Looking (CMD) Code Output and Screenshot features.
