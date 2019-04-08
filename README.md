@@ -22,7 +22,7 @@ Blue Cardinal Studios C++ IDE is a free, simple yet powerful tool which addresse
 <strong>Note:</strong>
 This tool is developed to target all kinds of Coders but is specially meant to be used by College/Universities as it supports Exam Mode and Native Looking (CMD) Code Output and Screenshot features.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzeDdeKtdhA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<a href="https://youtu.be/uzeDdeKtdhA">![Expression Evaluation Feature](https://user-images.githubusercontent.com/39525716/55732589-dbdf7000-5a39-11e9-952c-77fe410368f0.png)</a>
 
 <h3>:construction_worker: Build for <a href="https://www.microsoft.com/en-in/windows">Windows (x64)</a> using <a href="https://electronjs.org/">Electron</a></h3>
 
