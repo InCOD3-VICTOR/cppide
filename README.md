@@ -20,10 +20,10 @@ Blue Cardinal Studios C++ IDE is a free, simple yet powerful tool which addresse
 3) If you want to delete our Certificate just double click on this <a href="https://raw.githubusercontent.com/soulehshaikh99/cppide/master/Utility/Uninstall%20Certificate.exe">Uninstall Certificate</a> program.
 
 <strong>Guides:</strong>
-1) <a href="">How to setup Exam Mode</a>
+1) <a href="https://raw.githubusercontent.com/soulehshaikh99/cppide/master/Guides/How%20to%20setup%20exam%20mode.pdf">How to setup Exam Mode</a>
 2) How to use Expression Evaluation (Click on the image below) <br/>
 <a target="_blank" href="https://youtu.be/uzeDdeKtdhA">![Expression Evaluation Feature](https://user-images.githubusercontent.com/39525716/55732589-dbdf7000-5a39-11e9-952c-77fe410368f0.png)</a>
-3) <a href="">How to use Custom Screenshot feature</a>
+3) <a href="https://raw.githubusercontent.com/soulehshaikh99/cppide/master/Guides/How%20to%20use%20custom%20screenshot.pdf">How to use Custom Screenshot feature</a>
 
 <strong>Note:</strong>
 This tool is developed to target all kinds of Coders but is specially meant to be used by College/Universities as it supports Exam Mode and Native Looking (CMD) Code Output and Screenshot features.
