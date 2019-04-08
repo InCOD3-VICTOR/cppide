@@ -10,7 +10,7 @@ Powered with:
 5) Math.js: Integrated for Expression Evaluation feature.
 
 Special Features:
-1) Only requires ~100-200MB of RAM Memory to run.
+1) Only requires 100~200MB of RAM Memory & 1.5 GB HDD space to run.
 2) Able to compile and run C,C++ Graphics Programs out-of-the-box with Zero Compiler or Linker configurations.
 3) Code Output's screenshot can be saved by pressing only the F8 key.
 
