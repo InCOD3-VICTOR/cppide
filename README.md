@@ -19,10 +19,14 @@ Blue Cardinal Studios C++ IDE is a free, simple yet powerful tool which addresse
 2) If you wish to verify that the software came directly from us without any tampering, download our <a href="https://raw.githubusercontent.com/soulehshaikh99/cppide/master/Utility/Install%20Certificate.exe">Install Certificate</a> program so you will be able to see our company name as Trusted Publisher.
 3) If you want to delete our Certificate just double click on this <a href="https://raw.githubusercontent.com/soulehshaikh99/cppide/master/Utility/Uninstall%20Certificate.exe">Uninstall Certificate</a> program.
 
+<strong>Guides:</strong>
+1) <a href="">How to setup Exam Mode</a>
+2) How to use Expression Evaluation (Click on the image below) <br/>
+<a target="_blank" href="https://youtu.be/uzeDdeKtdhA">![Expression Evaluation Feature](https://user-images.githubusercontent.com/39525716/55732589-dbdf7000-5a39-11e9-952c-77fe410368f0.png)</a>
+3) <a href="">How to use Custom Screenshot feature</a>
+
 <strong>Note:</strong>
 This tool is developed to target all kinds of Coders but is specially meant to be used by College/Universities as it supports Exam Mode and Native Looking (CMD) Code Output and Screenshot features.
-
-<a target="_blank" href="https://youtu.be/uzeDdeKtdhA">![Expression Evaluation Feature](https://user-images.githubusercontent.com/39525716/55732589-dbdf7000-5a39-11e9-952c-77fe410368f0.png)</a>
 
 <h3>:construction_worker: Build for <a href="https://www.microsoft.com/en-in/windows">Windows (x64)</a> using <a href="https://electronjs.org/">Electron</a></h3>
 
