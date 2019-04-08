@@ -16,6 +16,8 @@ Special Features:
 
 This tool is developed to target all kinds of Coders but is specially meant to be used by College/Universities as it supports Exam Mode and Native Looking (CMD) Code Output and Screenshot features.
 
+If you are having a hard time uninstalling the software, download the <a href="https://github.com/soulehshaikh99/cppide/releases/download/v1.0.0/Complete.Uninstall.exe">Complete Uninstaller</a> which makes sure no traces are left in the system while uninstalling.
+
 <h3>:construction_worker: Build for <a href="https://www.microsoft.com/en-in/windows">Windows (x64)</a> using <a href="https://electronjs.org/">Electron</a></h3>
 
 <h3>:pencil: Credits:</h3>
